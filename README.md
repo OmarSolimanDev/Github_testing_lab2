@@ -16,4 +16,8 @@ Tell me how to delete tag locally and remotely.​
 
 ---
 
+<<<<<<< HEAD
 ![Alt text](./penguin.jpg?raw=true "Iam a Penguin")
+=======
+![Alt text](penguin.jpg?raw=true "Iam a Penguin"
+>>>>>>> bab7ad9cd386adcae7a17907e7ccfca730429cd7
