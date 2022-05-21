@@ -16,4 +16,4 @@ Tell me how to delete tag locally and remotely.​
 
 ---
 
-![Alt text](/home/omar/Downloads/penguin.jpg?raw=true "Iam a Penguin"
+![Alt text](./penguin.jpg?raw=true "Iam a Penguin"
